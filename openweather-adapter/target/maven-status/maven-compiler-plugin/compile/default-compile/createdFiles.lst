@@ -1,0 +1,6 @@
+com/example/weather/adapter/dto/MainData.class
+com/example/weather/adapter/dto/ForecastItem.class
+com/example/weather/adapter/OpenWeatherProvider$1.class
+com/example/weather/adapter/OpenWeatherProvider.class
+com/example/weather/adapter/dto/ForecastResponse.class
+com/example/weather/adapter/OpenWeatherProperties.class
