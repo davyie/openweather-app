@@ -1,0 +1,3 @@
+com/example/weather/starter/WeatherAutoConfiguration.class
+com/example/weather/starter/WeatherProperties.class
+com/example/weather/starter/FakeWeatherProvider.class

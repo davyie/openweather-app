@@ -1,0 +1,5 @@
+com/example/weather/kafka/KafkaWeatherProvider$CacheEntry.class
+com/example/weather/kafka/KafkaWeatherProvider.class
+com/example/weather/kafka/ForecastEventPublisher.class
+com/example/weather/kafka/KafkaAdapterProperties.class
+com/example/weather/kafka/WeatherForecastEvent.class

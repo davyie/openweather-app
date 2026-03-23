@@ -1,0 +1,6 @@
+G5Mc4pL7a5du5zXiYvAJ3Mr4W7C2aYvhUiG9NPxtZsk=
+src/main/java/com/example/weather/kafka/ForecastEventPublisher.java 2026-03-23T20:04:43.282584397Z
+src/main/java/com/example/weather/kafka/KafkaAdapterProperties.java 2026-03-23T20:00:23.976798317Z
+src/main/java/com/example/weather/kafka/KafkaWeatherProvider.java 2026-03-23T20:06:02.606556705Z
+src/main/java/com/example/weather/kafka/WeatherForecastEvent.java 2026-03-23T20:00:27.425950914Z
+src/test/java/com/example/weather/kafka/KafkaWeatherProviderTest.java 2026-03-23T20:06:02.528688072Z

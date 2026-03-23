@@ -1,0 +1,4 @@
+/Users/davidyu/GitHub/java/weather-app/openweather-kafka-adapter/src/main/java/com/example/weather/kafka/ForecastEventPublisher.java
+/Users/davidyu/GitHub/java/weather-app/openweather-kafka-adapter/src/main/java/com/example/weather/kafka/KafkaAdapterProperties.java
+/Users/davidyu/GitHub/java/weather-app/openweather-kafka-adapter/src/main/java/com/example/weather/kafka/KafkaWeatherProvider.java
+/Users/davidyu/GitHub/java/weather-app/openweather-kafka-adapter/src/main/java/com/example/weather/kafka/WeatherForecastEvent.java
