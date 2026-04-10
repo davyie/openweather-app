@@ -1,0 +1,33 @@
+services:
+  weather-api:
+    image: weather-web-api:1.0.0
+    container_name: weather-app
+    ports:
+      - "8080:8080" # Maps port 8080 on your host to 8080 in the container
+    env_file:
+      - ../.env
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:7-alpine
+    container_name: redis_server
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --save 60 1 --loglevel warning
+
+  # Optional: A GUI to manage your Redis data
+  redis-insight:
+    image: redis/redisinsight:latest
+    container_name: redis_insight
+    restart: always
+    ports:
+      - "5540:5540"
+    depends_on:
+      - redis
+
+volumes:
+  redis_data:
