@@ -1,6 +1,0 @@
-/Users/davidyu/GitHub/java/weather-app/rate-limit-starter/src/main/java/com/example/ratelimit/InMemoryRateLimitService.java
-/Users/davidyu/GitHub/java/weather-app/rate-limit-starter/src/main/java/com/example/ratelimit/RateLimitAutoConfiguration.java
-/Users/davidyu/GitHub/java/weather-app/rate-limit-starter/src/main/java/com/example/ratelimit/RateLimitFilter.java
-/Users/davidyu/GitHub/java/weather-app/rate-limit-starter/src/main/java/com/example/ratelimit/RateLimitProperties.java
-/Users/davidyu/GitHub/java/weather-app/rate-limit-starter/src/main/java/com/example/ratelimit/RateLimitService.java
-/Users/davidyu/GitHub/java/weather-app/rate-limit-starter/src/main/java/com/example/ratelimit/RedisRateLimitService.java
