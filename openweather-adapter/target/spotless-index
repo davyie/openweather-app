@@ -1,7 +1,0 @@
-dvwLqniP5zLNNNOJJFFXQG+T7FVDy/QR+L5Ro6/A9/U=
-src/main/java/com/example/weather/adapter/OpenWeatherProperties.java 2026-03-23T19:47:23.713021064Z
-src/main/java/com/example/weather/adapter/OpenWeatherProvider.java 2026-03-23T19:50:59.674425365Z
-src/main/java/com/example/weather/adapter/dto/ForecastItem.java 2026-03-23T19:47:30.237631174Z
-src/main/java/com/example/weather/adapter/dto/ForecastResponse.java 2026-03-23T19:47:32.861953222Z
-src/main/java/com/example/weather/adapter/dto/MainData.java 2026-03-23T19:47:27.293021907Z
-src/test/java/com/example/weather/adapter/OpenWeatherProviderTest.java 2026-03-23T19:51:47.581373422Z
