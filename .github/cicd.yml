@@ -1,0 +1,16 @@
+name: CI pipeline 
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4 # Checkout the code from the repository
+
+      - name: Run tests 
+        run: mvn test
